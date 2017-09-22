@@ -1,0 +1,2 @@
+<a href="{{ url($url1) }}" class="btn-large white-text" style="background-color: #A17D45;">{{ $button_text1 }}</a>
+<a href="{{ url($url2) }}" class="btn-large" style="border: 2px solid #A17D45;background-color: #fff;color: #A17D45;">{{ $button_text2 }}</a>
